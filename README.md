@@ -1,4 +1,4 @@
-# AdaptiveSourceQAMelBert
+# ConceptFrameMet
 
 **Adaptive Source Domain Integration for Metaphor Detection**
 
